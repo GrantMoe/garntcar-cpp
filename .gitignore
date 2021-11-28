@@ -42,3 +42,4 @@
 # Local History for Visual Studio Code
 .history/
 build/*
+.vscode
